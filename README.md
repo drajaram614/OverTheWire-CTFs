@@ -2,6 +2,10 @@
 
 ![Banner](./images/CTF_BANNER.jpg)
 
+Check out my detailed walkthrough for the Bandit CTF challenges:
+
+[Bandit Walkthrough](./Bandit%20Walkthrough.md)
+
 ## What I Learned:
 The Bandit CTF provided hands-on experience with essential Linux commands, scripting, networking, and privilege escalation techniques, all of which are fundamental to cybersecurity. Throughout the challenges, I developed proficiency in file operations, such as searching, reading, and manipulating data securely using `ssh`, `cat`, `find`, and other commands. I learned how to handle encoded and compressed data using utilities like `base64`, `gzip`, and `xxd`, which are vital for tasks like malware analysis and decoding obfuscated data. I also gained experience with shell scripting to automate repetitive tasks, a critical skill for optimizing security workflows.
 
@@ -94,3 +98,7 @@ Developed an analytical mindset by breaking down complex problems into solvable 
 
 ### Version Control with Git
 Reinforced secure software development practices by working with Git for version control, managing code changes, and collaborating in a team setting—an indispensable skill in modern DevSecOps and secure coding environments.
+
+Check out my detailed walkthrough for the Bandit CTF challenges:
+
+[Bandit Walkthrough](./Bandit%20Walkthrough.md)
