@@ -1,5 +1,7 @@
 # Bandit CTFs
 
+![Banner](./images/CTF_BANNER.jpg)
+
 ## What I Learned:
 The Bandit CTF provided hands-on experience with essential Linux commands, scripting, networking, and privilege escalation techniques, all of which are fundamental to cybersecurity. Throughout the challenges, I developed proficiency in file operations, such as searching, reading, and manipulating data securely using `ssh`, `cat`, `find`, and other commands. I learned how to handle encoded and compressed data using utilities like `base64`, `gzip`, and `xxd`, which are vital for tasks like malware analysis and decoding obfuscated data. I also gained experience with shell scripting to automate repetitive tasks, a critical skill for optimizing security workflows.
 
