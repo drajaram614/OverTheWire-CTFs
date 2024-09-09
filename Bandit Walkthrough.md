@@ -272,6 +272,7 @@ There is a git repository at ssh://bandit30-git@localhost/home/bandit30-git/repo
 Clone the repository and find the password for the next level.
 ### Commands you may need to solve this level
 git
+
 reference level 29, more to this level, figure out on your own:
 
 ![Level 30 - Level 31](./images/level30-31.png)
@@ -282,6 +283,7 @@ There is a git repository at ssh://bandit31-git@localhost/home/bandit31-git/repo
 Clone the repository and find the password for the next level.
 ### Commands you may need to solve this level
 git
+
 reference level 29, more to this level, figure out on your own:
 
 ![Level 31 - Level 32](./images/level31-32.png)
