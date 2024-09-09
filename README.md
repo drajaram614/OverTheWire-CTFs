@@ -68,3 +68,27 @@ Overall, the CTF honed my command-line proficiency, automation skills, and under
 
 ## Conclusion:
 These commands cover a variety of tasks, from networking and file manipulation to escaping restricted environments and using Git. The commands were applied strategically in CTF challenges to solve problems by navigating the system, working with files, and interacting with services.
+
+
+## Skills
+
+### Linux Proficiency
+Developed deep command-line proficiency, which is foundational for cybersecurity professionals. Linux underpins many security tools and servers, making these skills essential for monitoring, defending, and attacking systems.
+
+### Automation with Scripting
+Utilized bash scripts to automate repetitive tasks, improving efficiency in incident response, vulnerability scanning, and system administration. Automation is vital for scaling security operations and reducing manual effort in complex tasks.
+
+### Privilege Escalation
+Gained insight into how improper file permissions and misconfigured binaries can be exploited for privilege escalation. Understanding this is critical for both ethical hacking (offensive roles) and ensuring proper hardening of systems (defensive roles).
+
+### Networking Knowledge
+Explored networking fundamentals such as open port identification, service exploitation, and secure communications. These skills are crucial for vulnerability assessments, penetration testing, and incident response.
+
+### File and Data Manipulation
+Acquired the ability to search, extract, and decode hidden or obfuscated data. These techniques are key in reverse engineering malware, analyzing data breaches, and conducting digital forensics.
+
+### Critical Thinking and Problem Solving
+Developed an analytical mindset by breaking down complex problems into solvable steps. This is essential for diagnosing issues, identifying security vulnerabilities, and implementing effective mitigations in real-world IT environments.
+
+### Version Control with Git
+Reinforced secure software development practices by working with Git for version control, managing code changes, and collaborating in a team setting—an indispensable skill in modern DevSecOps and secure coding environments.
